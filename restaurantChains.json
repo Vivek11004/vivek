@@ -1,0 +1,102 @@
+[
+    {
+        "image": "https://api.pizzahut.io/v1/content/en-in/in-1/images/promo/free-pizza.06ca10ae3da47b2295e76e3d1c7fb3de.1.jpg",
+        "offer": "Items at ₹179",
+        "title": "Pizza Hut",
+        "rating": 4.2,
+        "minTime": 30,
+        "maxTime": 40,
+        "name": "Pizzas",
+        "place": "New Jodhpur"
+    },
+    {
+        "image": "https://th.bing.com/th/id/OIP.loOev9DL6Jdibs3lj3KlVQAAAA?rs=1&pid=ImgDetMain",
+        "offer": "₹50 OFF ABOVE ₹199",
+        "title": "Janta Sweet Home",
+        "rating": 4.5,
+        "minTime": 35,
+        "maxTime": 40,
+        "name": "Sweets,South Indian",
+        "place": "Shastri Nagar"
+    },
+    {
+        "image": "https://s3.scoopwhoop.com/son/thali/south.jpg",
+        "offer": "₹85 OFF ABOVE ₹149",
+        "title": "Parihaar Bhojnalay",
+        "rating": 4.3,
+        "minTime": 35,
+        "maxTime": 40,
+        "name": "North India, Thalis",
+        "place": "Sardarpura"
+    },
+    {
+        "image": "https://www.tasteofhome.com/wp-content/uploads/2017/10/Easy-Ice-Cream-Sandwich-Dessert_exps49382_TH854207_D45A.jpg",
+        "offer": "₹70 OFF ABOVE ₹149",
+        "title": "Kwality Walls Frozen",
+        "rating": 4.5,
+        "minTime": 25,
+        "maxTime": 25,
+        "name": "Desserts,Ice Cream",
+        "place": "Chopsani Housing Board"
+    },
+    {
+        "image": "https://th.bing.com/th/id/OIP.sj643R18Kl1BqRkh9hBibwHaFC?rs=1&pid=ImgDetMain",
+        "offer": "₹1-5 OFF ABOVE ₹179",
+        "title": "The Good Bowl",
+        "rating": 4.4,
+        "minTime": 30,
+        "maxTime": 35,
+        "name": "Biryani, North India",
+        "place": "Shastri Nagar"
+    },
+    {
+        "image": "https://spoonuniversity.com/wp-content/uploads/sites/119/2016/07/13147529_10154036569157936_6440963717501614562_o-1024x1024.jpg",
+        "offer": "₹100 OFF ABOVE ₹499",
+        "title": "NIC Ice Creams",
+        "rating": 4.7,
+        "minTime": 25,
+        "maxTime": 30,
+        "name": "Desserts,Ice Cream",
+        "place": "Sardarpura"
+    },
+    {
+        "image": "https://th.bing.com/th/id/OIP.XSCo5S6kP3o-7-jVqH4vGgHaE8?rs=1&pid=ImgDetMain",
+        "offer": "Items at ₹109",
+        "title": "Dosh Center",
+        "rating": 4.0,
+        "minTime": 35,
+        "maxTime": 40,
+        "name": "South Indian",
+        "place": "Chopsani Housing Board"
+    },
+    {
+        "image": "https://www.rajbhog.com/wp-content/uploads/2021/02/Indian-Thali-870x635.jpg",
+        "offer": "₹125 OFF ABOVE ₹349",
+        "title": "Lunch Box - Meals and Thalis",
+        "rating": 4.3,
+        "minTime": 30,
+        "maxTime": 35,
+        "name": "Biryani, North India",
+        "place": "Shastri Nagar"
+    },
+    {
+        "image": "https://lavozdexela.com/wp-content/uploads/2020/09/maquito-scaled-e1600740758262-1200x800_c.jpg",
+        "offer": "₹70 OFF ABOVE ₹249",
+        "title": "McDonald's",
+        "rating": 4.4,
+        "minTime": 30,
+        "maxTime": 35,
+        "name": "American",
+        "place": "Rawaton Ka Bass"
+    },
+    {
+        "image": "https://cdn.igp.com/f_auto,q_auto,t_pnopt7prodlp/products/p-chocolate-and-vanilla-cupcakes-pack-of-6--135335-m.jpg",
+        "offer": "₹100 OFF ABOVE ₹449",
+        "title": "Kajal's Cake",
+        "rating": 4.5,
+        "minTime": 35,
+        "maxTime": 40,
+        "name": "Cake",
+        "place": "Chopsani Housing Board"
+    }
+]
